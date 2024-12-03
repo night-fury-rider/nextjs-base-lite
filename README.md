@@ -4,8 +4,12 @@ This is a light version of base project of [Next.js](https://nextjs.org/) bootst
 
 # Technologies and Libraries Used
 
-- [ReactJS 19.0.0-rc](https://reactjs.org/)
-- [Next.js 15.0.0-canary](https://nextjs.org/)
+| Library                          | Version |
+| -------------------------------- | ------- |
+| [React](https://reactjs.org/)                                                                            | v19     |
+| [Next.js](https://nextjs.org/)                                                                           | v15     |
+
+
 
 ---
 
