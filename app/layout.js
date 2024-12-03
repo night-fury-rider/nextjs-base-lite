@@ -2,7 +2,7 @@ import { ibmFont } from "@/app/fonts";
 import "./globals.css";
 
 export const metadata = {
-  title: "Next.js Base Lite",
+  title: "Next.js App by Yuvraj Patil",
   description:
     "Light version of base repository for some quick coding practices with Next.js",
 };
